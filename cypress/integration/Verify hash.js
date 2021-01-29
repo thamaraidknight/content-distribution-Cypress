@@ -7,11 +7,7 @@ describe("CDN", function() {
     it('CDN-login', () =>
     {
 
-        cy.visit("https://cdn.swrmlabs.io/")
         
-
-        cy.get(':nth-child(1) > .ss_input').type('thamaraiselvan@mailinator.com')
-        cy.get(':nth-child(2) > .ss_input').type('12345678')
         cy.get('#hs-eu-confirmation-button').click()
         cy.get(':nth-child(4) > .btn').click()
         

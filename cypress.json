@@ -1,8 +1,6 @@
 {
   "env": {
-    "login_url": "https://cdn.swrmlabs.io/",
-    "user_name": "thamarai@mailinator.com",
-    "password": "12345678"
+    
   },
   "projectId": "tar2zp"
 }
