@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "cdn": "Verify.js"
+    "cdn": "Verify hash.js"
   },
   "author": "Thamarai",
   "license": "ISC",
